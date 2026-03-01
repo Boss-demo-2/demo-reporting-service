@@ -31,4 +31,5 @@ This repository is part of the **BOSS Versioning System** demo. It represents a 
 
 - **Tier**: 3 — Supporting
 - **Simulates**: Reporting / Logging Service
-- **Priority**: Low — non-critical, changes always result in PATCH bump
+- **Priority**: Low — non-critical, changes always result in PATCH bump.
+
