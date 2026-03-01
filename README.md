@@ -2,7 +2,7 @@
 
 > **BOSS Demo Microservice — Tier 3 (Supporting)**
 >
-> Simulates the Reporting / Logging Service in the BOSS application ecosystem
+> Simulates the Reporting / Logging Service in the BOSS application ecosystem.
 
 ---
 
